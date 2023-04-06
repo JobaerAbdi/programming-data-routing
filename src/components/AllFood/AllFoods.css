@@ -1,0 +1,21 @@
+.all-foods{
+    border: 6px solid red;
+    border-radius: 30px;
+    padding-bottom: 25px;
+}
+.all-foods img{
+    padding: 35px;
+}
+.all-foods h1{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.btn-data{
+    font-size: 30px;
+    font-weight: bold;
+    width: 100%;
+    margin: auto;
+    background-color: blueviolet;
+    padding: 10px;
+}

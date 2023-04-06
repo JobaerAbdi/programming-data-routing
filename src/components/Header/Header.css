@@ -1,0 +1,8 @@
+.nav-link {
+    width: 100%;
+    text-align: center;
+}
+.nav-link  a{
+    margin-left: 40px;
+    font-size: 30px;
+}
